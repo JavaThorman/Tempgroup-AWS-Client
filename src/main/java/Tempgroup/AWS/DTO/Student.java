@@ -1,5 +1,4 @@
 package Tempgroup.AWS.DTO;
 
-public class Book {
-
+public class Student {
 }
