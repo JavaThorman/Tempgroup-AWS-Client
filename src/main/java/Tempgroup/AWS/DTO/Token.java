@@ -1,5 +1,5 @@
 package Tempgroup.AWS.DTO;
 
-public class Role {
+public class Token {
 
 }
